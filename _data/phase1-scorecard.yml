@@ -1,0 +1,324 @@
+questions:
+  - question-title: Does the use case clearly, and accurately describe the problem to be solved?
+    question-description: 
+    question: assessment-1
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-1-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-1-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-1-2
+      - value: 3
+        label: 3 - High
+        id: assessment-1-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-1-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-1-5
+  - question-title: Does the use case accurately outline current processes in place?
+    question-description: 
+    question: assessment-2
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-2-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-2-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-2-2
+      - value: 3
+        label: 3 - High
+        id: assessment-2-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-2-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-2-5
+  - question-title: Does the use case align the goals and objectives with desired outcomes? 
+    question-description: 
+    question: assessment-3
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-3-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-3-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-3-2
+      - value: 3
+        label: 3 - High
+        id: assessment-3-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-3-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-3-5
+  - question-title: Does the use case need greater insight from the data?
+    question-description: 
+    question: assessment-4
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-4-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-4-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-4-2
+      - value: 3
+        label: 3 - High
+        id: assessment-4-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-4-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-4-5
+  - question-title: Has sufficient data been identified for the use case?
+    question-description: 
+    question: assessment-5
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-5-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-5-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-5-2
+      - value: 3
+        label: 3 - High
+        id: assessment-5-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-5-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-5-5
+  - question-title: Does the use case identify what data is required and available, accessible, and accurate?  
+    question-description: 
+    question: assessment-6
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-6-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-6-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-6-2
+      - value: 3
+        label: 3 - High
+        id: assessment-6-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-6-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-6-5
+  - question-title: Is the data from the use case annotated and curated?
+    question-description: (Does the data contain metainformation?)
+    question: assessment-7
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-7-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-7-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-7-2
+      - value: 3
+        label: 3 - High
+        id: assessment-7-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-7-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-7-5
+  - question-title: Does your use case largely need manual process automation?
+    question-description: (That is to determine if only RPA is needed)
+    question: assessment-8
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-8-0
+      - value: -1
+        label: -1 – Slightly
+        id: assessment-8-1
+      - value: -2
+        label: -2 - Moderate
+        id: assessment-8-2
+      - value: -3
+        label: -3 - High
+        id: assessment-8-3
+      - value: -4
+        label: -4 – Very High
+        id: assessment-8-4
+      - value: -5
+        label: -5 - Critical
+        id: assessment-8-5
+  - question-title: Is there a predictive element to the use case? 
+    question-description: (Assumptions and testing made based on prior data)
+    question: assessment-9
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-9-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-9-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-9-2
+      - value: 3
+        label: 3 - High
+        id: assessment-9-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-9-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-9-5
+  - question-title: Have other technologies successfully been applied to address elements of the use case? 
+    question-description: (Could you    somewhat solve your use case with an existing solution?)
+    question: assessment-10
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-10-0
+      - value: -1
+        label: -1 – Slightly
+        id: assessment-10-1
+      - value: -2
+        label: -2 - Moderate
+        id: assessment-10-2
+      - value: -3
+        label: -3 - High
+        id: assessment-10-3
+      - value: -4
+        label: -4 – Very High
+        id: assessment-10-4
+      - value: -5
+        label: -5 - Critical
+        id: assessment-10-5
+  - question-title: Does the data fit for purpose (descriptive modeling) and is it operationally relevant (predictive modeling)?
+    question-description: 
+    question: assessment-11
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-11-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-11-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-11-2
+      - value: 3
+        label: 3 - High
+        id: assessment-11-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-11-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-11-5
+  - question-title: Are the authoritative data sources of the use case, organized, structured, deconflicted, and matriculated?    
+    question-description: 
+    question: assessment-12
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-12-0
+      - value: 1
+        label: 1 – Slightly
+        id: assessment-12-1
+      - value: 2
+        label: 2 - Moderate
+        id: assessment-12-2
+      - value: 3
+        label: 3 - High
+        id: assessment-12-3
+      - value: 4
+        label: 4 – Very High
+        id: assessment-12-4
+      - value: 5
+        label: 5 - Critical
+        id: assessment-12-5
+  - question-title: Could the result of the use case change how conformance requirements need to be applied? 
+    question-description: (e.g., personally identifiable information [PII], classified etc.)?
+    question: assessment-13
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-13-0
+      - value: -1
+        label: -1 – Slightly
+        id: assessment-13-1
+      - value: -2
+        label: -2 - Moderate
+        id: assessment-13-2
+      - value: -3
+        label: -3 - High
+        id: assessment-13-3
+      - value: -4
+        label: -4 – Very High
+        id: assessment-13-4
+      - value: -5
+        label: -5 - Critical
+        id: assessment-13-5
+  - question-title: Does the use case contain ethical considerations and is there a potential for bias? 
+    question-description: (In the data, algorithms, or aggregation process)
+    question: assessment-14
+    values:
+      - value: 0
+        label: 0 – Not at all
+        checked: true
+        id: assessment-14-0
+      - value: -1
+        label: -1 – Slightly
+        id: assessment-14-1
+      - value: -2
+        label: -2 - Moderate
+        id: assessment-14-2
+      - value: -3
+        label: -3 - High
+        id: assessment-14-3
+      - value: -4
+        label: -4 – Very High
+        id: assessment-14-4
+      - value: -5
+        label: -5 - Critical
+        id: assessment-14-5
+
