@@ -8,18 +8,18 @@ hero:
  image: /assets/img/playbook/act-iac-bg.png
  callout:
   #  alt: "AI Playbook"
-   text: Join Us
+   text: Start Your AI Journey
  button:
    href: /welcome/
    text: Start
 #  link:
 #    text: Link to more about that priority
 #    href: /link/
- content: Join and become a change agent to accelerate the adoption of AI within the Federal Government
+ content: Become a change agent to accelerate the adoption of AI within the Federal Government
 
 tagline: AI Playbook for Federal U.S. Government 
 intro: |
-  This Playbook comes right after the [Primer](https://www.actiac.org/act-iac-white-paper-artificial-intelligence-machine-learning-primer) and proposes a process and a series of phases to support the United States Federal government in its understanding and application of AI and distributed ledger technologies for its mission. Each phase contains a set of key activities organized in function areas that go beyond just the technical aspect of AI and cover management, people, process and acquisition areas.
+  This Playbook follows the [AI Primer](https://www.actiac.org/act-iac-white-paper-artificial-intelligence-machine-learning-primer) as a companion process and a series of phases to support the United States Federal Government in its understanding and application of AI for its mission. Each phase contains a set of key activities organized in function areas that go beyond just the technical aspect of AI and cover management, people, process and acquisition areas.
 
   [Start](/ai-playbook/welcome/){: .usa-button .usa-button-big }
 
