@@ -61,6 +61,8 @@ playbook:
     href: /phases/4/
   - text: Integration
     href: /phases/5/
+  - text: Conclusion
+    href: /conclusion/
 
 footer:
   - text: Feedback
